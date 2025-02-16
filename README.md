@@ -1,4 +1,4 @@
-### What This Code Does (English Explanation):
+### What This Code Does 
 
 This Python script uses the `scapy` library to capture and analyze network packets. Here's a breakdown of its functionality:
 
